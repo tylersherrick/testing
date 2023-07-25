@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tylersherrick/testing.git/static/css/main.073c9b0a.css",
+    "main.js": "/tylersherrick/testing.git/static/js/main.6a4a36d8.js",
+    "static/js/787.9b06cee2.chunk.js": "/tylersherrick/testing.git/static/js/787.9b06cee2.chunk.js",
+    "static/media/logo.svg": "/tylersherrick/testing.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tylersherrick/testing.git/index.html",
+    "main.073c9b0a.css.map": "/tylersherrick/testing.git/static/css/main.073c9b0a.css.map",
+    "main.6a4a36d8.js.map": "/tylersherrick/testing.git/static/js/main.6a4a36d8.js.map",
+    "787.9b06cee2.chunk.js.map": "/tylersherrick/testing.git/static/js/787.9b06cee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6a4a36d8.js"
+  ]
+}
